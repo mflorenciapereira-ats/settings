@@ -1,3 +1,3 @@
 object_type: global_settings
 overrides:
-    "query.cache.entry.sizeLimit": 0
+    "catalog.deployment.uncommitted.enabled": true
