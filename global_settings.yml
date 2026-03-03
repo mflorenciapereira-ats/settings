@@ -1,3 +1,3 @@
 object_type: global_settings
 overrides:
-    "aggregate.incrementalUpdate.partition.strategy": "none"
+    "aggregate.incrementalUpdate.partition.strategy": "distribution"
