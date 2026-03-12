@@ -1,4 +1,4 @@
 object_type: global_settings
 overrides:
-    "aggregate.incrementalUpdate.partition.strategy": "distribution"
+    "aggregate.incrementalUpdate.partition.strategy": "user"
     "tables.create.partitions.maximumEstimatedNumberOfPartitions": 10000
