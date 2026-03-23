@@ -3,4 +3,3 @@ overrides:
     "aggregate.incrementalUpdate.partition.strategy": "none"
     "tables.create.partitions.maximumEstimatedNumberOfPartitions": 10000
     "aggregate.batch.gracePeriodOverrides.enabled": true
-    "aggregate.batch.cube.gracePeriodOverrides.enabled": false
