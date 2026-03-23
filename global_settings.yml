@@ -1,5 +1,5 @@
 object_type: global_settings
 overrides:
-    "aggregate.incrementalUpdate.partition.strategy": "distribution"
+    "aggregate.incrementalUpdate.partition.strategy": "none"
     "tables.create.partitions.maximumEstimatedNumberOfPartitions": 10000
     "aggregate.batch.gracePeriodOverrides.enabled": true
