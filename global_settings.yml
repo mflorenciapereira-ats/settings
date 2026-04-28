@@ -3,3 +3,4 @@ overrides:
     "aggregate.incrementalUpdate.partition.enabled": "false"
     "tables.create.partitions.maximumEstimatedNumberOfPartitions": 10000
     "aggregate.batch.gracePeriodOverrides.enabled": true
+    "aggregate.incrementalUpdate.maxConsecutiveStaticFragments": 1000
